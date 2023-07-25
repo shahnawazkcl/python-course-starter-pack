@@ -1,0 +1,56 @@
+Course: Python Programming for Beginners
+
+Duration: 4 Weeks (1 month)
+
+Objective: This course is designed for absolute beginners who have little to no programming experience. It aims to introduce students to the basics of Python programming and gradually build their skills to tackle more complex challenges. The course will cover fundamental concepts and practical examples to help students develop a strong foundation in Python programming.
+
+Week 1: Introduction to Python
+
+    Introduction to Python and its applications.
+    Installing Python and setting up the development environment.
+    Basic data types: numbers, strings, lists, tuples, and dictionaries.
+    Control flow: if-else statements and loops (for and while).
+    Input/output operations for file handling.
+    Writing simple programs to solve basic problems.
+
+Example: Create a program that checks if a given number is prime or not.
+
+Week 2: Functions and Modules
+
+    Understanding functions and their significance in programming.
+    Creating user-defined functions.
+    Working with built-in functions and standard library modules.
+    Introduction to Python packages and how to use them.
+    Writing modular code for reusability.
+
+Example: Build a program that calculates the factorial of a given number using a user-defined function.
+
+Week 3: Data Manipulation and File Handling
+
+    Working with strings and string manipulation.
+    Exploring the power of Python lists for data storage and manipulation.
+    Reading and writing data to files: text files and CSV files.
+    Introduction to error handling and exception handling.
+
+Example: Create a program to read data from a CSV file, perform some basic calculations, and write the results to another file.
+
+Week 4: Introduction to Object-Oriented Programming (OOP)
+
+    Understanding the principles of OOP: classes and objects.
+    Creating classes and defining attributes and methods.
+    Encapsulation, inheritance, and polymorphism in Python.
+    Introduction to basic data structures like stacks and queues.
+    Building a simple object-oriented program.
+
+Example Project: Online Store Simulator
+For the final project, students will create a simple online store simulator using Python and OOP principles. The project will involve the following steps:
+
+    Define Classes: Design classes for products, customers, and the shopping cart.
+    Add Functionality: Implement methods for adding products to the cart, updating quantities, and checking out.
+    Error Handling: Incorporate error handling to handle situations like out-of-stock items or invalid input.
+    Data Storage: Use file handling techniques to save and load product and customer data.
+    User Interaction: Create a user-friendly command-line interface to simulate the online shopping experience.
+    Testing and Validation: Test the functionality of the online store simulator with different scenarios.
+    Presentation: Present the project, explain the OOP concepts applied, and demonstrate how the online store simulator works.
+
+By the end of this course, students should have a solid understanding of Python programming concepts, data manipulation, functions, and object-oriented programming. The final project will serve as a practical application of their skills and showcase their ability to build a real-world program using Python.

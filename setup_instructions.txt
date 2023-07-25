@@ -1,0 +1,63 @@
+
+Setting Up Your System (Ubuntu) and Installing Python
+
+1. Update the package lists for upgrades and new package installations:
+    ```
+    sudo apt update
+    ```
+
+2. Upgrade all the installed packages to their latest available versions:
+    ```
+    sudo apt upgrade
+    ```
+
+3. Install Python 3 by running:
+    ```
+    sudo apt install python3
+    ```
+
+4. Verify the installation by checking the version of Python installed:
+    ```
+    python3 --version
+    ```
+
+Setting Up the Development Environment
+
+1. Install pip, a package manager for Python. This will allow you to install additional packages that are not part of the Python standard library:
+    ```
+    sudo apt install python3-pip
+    ```
+
+2. Install a virtual environment by running:
+    ```
+    sudo apt install python3-venv
+    ```
+
+3. Navigate to the directory where you want to create your Python projects, then create a new directory for your project:
+    ```
+    mkdir my_project
+    cd my_project
+    ```
+
+4. Create a new virtual environment inside your project directory:
+    ```
+    python3 -m venv venv
+    ```
+
+5. Activate your virtual environment:
+    ```
+    source venv/bin/activate
+    ```
+
+6. Now you're ready to start installing Python packages specific to your project into your virtual environment using pip. For example, to install the requests package, you would do:
+    ```
+    pip install requests
+    ```
+
+Remember to deactivate your virtual environment when you're done by running:
+    ```
+    deactivate
+    ```
+
+Happy coding!
+    
